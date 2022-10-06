@@ -2,12 +2,12 @@
 
 ## About me 
 
-:mortar_board: Student in computer science and statistics at Polytech Lille in France. <br />
+:mortar_board: Student in computer science and statistics at **Polytech Lille** in France. <br />
 :computer: Learning web development and server and network infrastructure management in my spare time. <br />
-:chart_with_upwards_trend: Creator and manager of Diikstra, my development brand. <br />
+:chart_with_upwards_trend: Creator and manager of **Diikstra**, my development brand. <br />
 
 
-[![My Skills](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VMathisV&theme=github_dark)]
+[![My Skills](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VMathisV&theme=moonlight)]
 
 ## Projects
 
