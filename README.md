@@ -19,7 +19,7 @@
 
 ### Codename Dune
 
-> Big personal project gathering a ton of different technologies, more info to come, in development since June 2022.
+> Large personal project gathering a ton of different technologies, more info to come, in development since June 2022.
 
 ***Status : Ongoing***
 
