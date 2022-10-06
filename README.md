@@ -6,8 +6,7 @@
 :computer: Learning web development and server and network infrastructure management in my spare time. <br />
 :chart_with_upwards_trend: Creator and manager of **Diikstra**, my development brand. <br />
 
-
-[![My Skills](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VMathisV&theme=moonlight)]
+![My Skills](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VMathisV&theme=moonlight)
 
 ## Projects
 
@@ -25,7 +24,7 @@
 
 ## Technology Stack
 
-[![Technology Stack](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nuxtjs,vue,tailwind,nginx,docker,postgres,redis,c,py,r)]
+![Technology Stack](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nuxtjs,vue,tailwind,nginx,docker,postgres,redis,c,py,r)
 
 ## Socials
 
