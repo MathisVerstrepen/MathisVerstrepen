@@ -24,7 +24,8 @@
 
 ## Technology Stack
 
-![Technology Stack](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nuxtjs,vue,tailwind,nginx,docker,postgres,redis,c,py,r)
+![Technology Stack](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nuxtjs,vue,tailwind,nginx,docker,postgres,redis,c,py,r)<br /><br />
+[![Codewars](https://www.codewars.com/users/Mathis%20Verstrepen/badges/large)](https://www.codewars.com/users/Mathis%20Verstrepen)
 
 ## Socials
 
@@ -33,5 +34,5 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mathis_v1)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Mathis777) 
 <br />
-[![Codewars](https://www.codewars.com/users/Mathis%20Verstrepen/badges/large)](https://www.codewars.com/users/Mathis%20Verstrepen)
+
 
