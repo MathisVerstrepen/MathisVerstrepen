@@ -10,7 +10,7 @@
 
 ## Projects
 
-### Gameinbox - [See here](https://diikstra.fr/gameinbox/accueil/)
+### Gameinbox - [See here](https://diikstra.fr/gameinbox/accueil/) - En maintenance
 
 > Main site of a minecraft survival server. It contains the personal statistics of all the players and the general statistics of the server (number of players, performance of the server). It also contains the documentation of the server to help the players and a page containing the offers of the shops available on the server.
 
