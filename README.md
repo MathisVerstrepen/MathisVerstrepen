@@ -10,7 +10,7 @@
 
 ## Projects
 
-### Gameinbox - [See here](https://diikstra.fr/gameinbox/accueil/) - In maintenance
+### Gameinbox - In maintenance
 
 > Main site of a minecraft survival server. It contains the personal statistics of all the players and the general statistics of the server (number of players, performance of the server). It also contains the documentation of the server to help the players and a page containing the offers of the shops available on the server.
 
@@ -25,7 +25,6 @@
 ## Technology Stack
 
 ![Technology Stack](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nuxtjs,vue,tailwind,nginx,docker,postgres,redis,c,py,r)<br /><br />
-[![Codewars](https://www.codewars.com/users/Mathis%20Verstrepen/badges/large)](https://www.codewars.com/users/Mathis%20Verstrepen)
 
 ## Socials
 
