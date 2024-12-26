@@ -10,17 +10,23 @@
 
 ## Projects
 
+### PotBlog
+
+> Personnal Blog. Self made markdown to html parser. Made with htmx, go & templ. Cf [repo](https://github.com/MathisVerstrepen/PotBlog).
+
+***Status : Ongoing***
+
+### Meledio
+
+> World 1st video game music streaming service, development halted due to the complexity of the project. See [Frontend](https://github.com/MathisVerstrepen/meledio-frontend) & [Backend](https://github.com/MathisVerstrepen/meledio-backend). Figma prototype can be accessed [here](https://www.figma.com/design/zn2rncIwm4pCQFl5dzR1Ap/Dune-V2?node-id=0-1&t=2ogDAIdEY6cIzk5c-1).
+
+***Status : Halted due to complexity***
+
 ### Gameinbox - In maintenance
 
 > Main site of a minecraft survival server. It contains the personal statistics of all the players and the general statistics of the server (number of players, performance of the server). It also contains the documentation of the server to help the players and a page containing the offers of the shops available on the server.
 
 ***Status : Finished***
-
-### Meledio
-
-> World 1st video game music streaming service, development halted due to the complexity of the project. See [Frontend](https://github.com/MathisVerstrepen/meledio-frontend) & [Backend](https://github.com/MathisVerstrepen/meledio-backend). Figma prototype can be accessed [here](https://www.figma.com/design/zn2rncIwm4pCQFl5dzR1Ap/Dune-V2?node-id=0-1&t=2ogDAIdEY6cIzk5c-1)
-
-***Status : Halted due to complexity***
 
 ## Technology Stack
 
