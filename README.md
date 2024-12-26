@@ -16,11 +16,11 @@
 
 ***Status : Finished***
 
-### Codename Dune
+### Meledio
 
-> Large personal project gathering a ton of different technologies, more info to come, in development since June 2022. Planned for release this year.
+> World 1st video game music streaming service, development halted due to the complexity of the project. See [Frontend](https://github.com/MathisVerstrepen/meledio-frontend) & [Backend](https://github.com/MathisVerstrepen/meledio-backend). Figma prototype can be accessed [here](https://www.figma.com/design/zn2rncIwm4pCQFl5dzR1Ap/Dune-V2?node-id=0-1&t=2ogDAIdEY6cIzk5c-1)
 
-***Status : Ongoing***
+***Status : Halted due to complexity***
 
 ## Technology Stack
 
