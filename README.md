@@ -10,6 +10,12 @@
 
 ## Projects
 
+### Meridian
+
+> A graph-powered AI chat application integrating intelligent parallelization for advanced, aggregated conversational experiences. Nuxt3 & Python. Cf [repo](https://github.com/MathisVerstrepen/Meridian).
+
+***Status : Ongoing***
+
 ### PotBlog
 
 > Personnal Blog. Self made markdown to html parser. Made with htmx, go & templ. Cf [repo](https://github.com/MathisVerstrepen/PotBlog).
