@@ -16,7 +16,7 @@
 
 ***Status : Ongoing***
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MathisVerstrepen&repo=Meridian\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/MathisVerstrepen/Meridian)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MathisVerstrepen&repo=Meridian&theme=github_dark&border_color=2c3239)](https://github.com/MathisVerstrepen/Meridian)
 
 ### PotBlog
 
@@ -24,7 +24,7 @@
 
 ***Status : Ongoing***
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MathisVerstrepen&repo=PotBlog\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/MathisVerstrepen/PotBlog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MathisVerstrepen&repo=PotBlog&theme=github_dark&border_color=2c3239)](https://github.com/MathisVerstrepen/PotBlog)
 
 ### Meledio
 
@@ -32,8 +32,8 @@
 
 ***Status : Halted due to complexity***
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MathisVerstrepen&repo=meledio-frontend\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/MathisVerstrepen/meledio-frontend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MathisVerstrepen&repo=meledio-backend\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/MathisVerstrepen/meledio-backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MathisVerstrepen&repo=meledio-frontend&theme=github_dark&border_color=2c3239)](https://github.com/MathisVerstrepen/meledio-frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MathisVerstrepen&repo=meledio-backend&theme=github_dark&border_color=2c3239)](https://github.com/MathisVerstrepen/meledio-backend)
 
 ### Gameinbox - In maintenance
 
@@ -41,7 +41,7 @@
 
 ***Status : Finished***
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MathisVerstrepen&repo=GameInBox-Website\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/MathisVerstrepen/GameInBox-Website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MathisVerstrepen&repo=GameInBox-Website&theme=github_dark&border_color=2c3239)](https://github.com/MathisVerstrepen/GameInBox-Website)
 
 ## Technology Stack
 
