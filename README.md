@@ -6,15 +6,17 @@
 :computer: Learning web development, server and network infrastructure management in my spare time. <br />
 :chart_with_upwards_trend: Creator and manager of **Diikstra**, my development brand. <br />
 
-![My Skills](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MathisVerstrepen&theme=moonlight) 
+![My Skills](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MathisVerstrepen&theme=github_dark) 
 
 ## Projects
 
 ### Meridian
 
-> A graph-powered AI chat application integrating intelligent parallelization for advanced, aggregated conversational experiences. Nuxt3 & Python. Cf [repo](https://github.com/MathisVerstrepen/Meridian).
+> A graph-powered AI chat application integrating intelligent parallelization for advanced, aggregated conversational experiences. Nuxt3 & Python.
 
 ***Status : Ongoing***
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MathisVerstrepen&repo=Meridian\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/MathisVerstrepen/Meridian)
 
 ### PotBlog
 
@@ -22,17 +24,24 @@
 
 ***Status : Ongoing***
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MathisVerstrepen&repo=PotBlog\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/MathisVerstrepen/PotBlog)
+
 ### Meledio
 
-> World 1st video game music streaming service, development halted due to the complexity of the project. See [Frontend](https://github.com/MathisVerstrepen/meledio-frontend) & [Backend](https://github.com/MathisVerstrepen/meledio-backend). Figma prototype can be accessed [here](https://www.figma.com/design/zn2rncIwm4pCQFl5dzR1Ap/Dune-V2?node-id=0-1&t=2ogDAIdEY6cIzk5c-1).
+> World 1st video game music streaming service, development halted due to the complexity of the project. Figma prototype can be accessed [here](https://www.figma.com/design/zn2rncIwm4pCQFl5dzR1Ap/Dune-V2?node-id=0-1&t=2ogDAIdEY6cIzk5c-1).
 
 ***Status : Halted due to complexity***
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MathisVerstrepen&repo=meledio-frontend\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/MathisVerstrepen/meledio-frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MathisVerstrepen&repo=meledio-backend\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/MathisVerstrepen/meledio-backend)
 
 ### Gameinbox - In maintenance
 
 > Main site of a minecraft survival server. It contains the personal statistics of all the players and the general statistics of the server (number of players, performance of the server). It also contains the documentation of the server to help the players and a page containing the offers of the shops available on the server.
 
 ***Status : Finished***
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MathisVerstrepen&repo=GameInBox-Website\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/MathisVerstrepen/GameInBox-Website)
 
 ## Technology Stack
 
