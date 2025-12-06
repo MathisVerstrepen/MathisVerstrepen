@@ -16,7 +16,7 @@
 
 ***Status : Ongoing***
 
-[![Meridian](https://github-readme-stats.vercel.app/api/pin/?username=MathisVerstrepen&repo=Meridian&theme=github_dark&border_color=2c3239)](https://github.com/MathisVerstrepen/Meridian)
+[![Meridian](https://github-readme-stats-omega-self-59.vercel.app/api/pin/?username=MathisVerstrepen&repo=Meridian&theme=github_dark&border_color=2c3239)](https://github.com/MathisVerstrepen/Meridian)
 
 ### PotBlog
 
@@ -24,7 +24,7 @@
 
 ***Status : Ongoing***
 
-[![PotBlog](https://github-readme-stats.vercel.app/api/pin/?username=MathisVerstrepen&repo=PotBlog&theme=github_dark&border_color=2c3239)](https://github.com/MathisVerstrepen/PotBlog)
+[![PotBlog](https://github-readme-stats-omega-self-59.vercel.app/api/pin/?username=MathisVerstrepen&repo=PotBlog&theme=github_dark&border_color=2c3239)](https://github.com/MathisVerstrepen/PotBlog)
 
 ### Meledio
 
@@ -32,8 +32,8 @@
 
 ***Status : Halted due to complexity***
 
-[![meledio-frontend](https://github-readme-stats.vercel.app/api/pin/?username=MathisVerstrepen&repo=meledio-frontend&theme=github_dark&border_color=2c3239)](https://github.com/MathisVerstrepen/meledio-frontend)
-[![meledio-backend](https://github-readme-stats.vercel.app/api/pin/?username=MathisVerstrepen&repo=meledio-backend&theme=github_dark&border_color=2c3239)](https://github.com/MathisVerstrepen/meledio-backend)
+[![meledio-frontend](https://github-readme-stats-omega-self-59.vercel.app/api/pin/?username=MathisVerstrepen&repo=meledio-frontend&theme=github_dark&border_color=2c3239)](https://github.com/MathisVerstrepen/meledio-frontend)
+[![meledio-backend](https://github-readme-stats-omega-self-59.vercel.app/api/pin/?username=MathisVerstrepen&repo=meledio-backend&theme=github_dark&border_color=2c3239)](https://github.com/MathisVerstrepen/meledio-backend)
 
 ### Gameinbox - In maintenance
 
@@ -41,7 +41,7 @@
 
 ***Status : Finished***
 
-[![GameInBox-Website](https://github-readme-stats.vercel.app/api/pin/?username=MathisVerstrepen&repo=GameInBox-Website&theme=github_dark&border_color=2c3239)](https://github.com/MathisVerstrepen/GameInBox-Website)
+[![GameInBox-Website](https://github-readme-stats-omega-self-59.vercel.app/api/pin/?username=MathisVerstrepen&repo=GameInBox-Website&theme=github_dark&border_color=2c3239)](https://github.com/MathisVerstrepen/GameInBox-Website)
 
 ## Technology Stack
 
