@@ -11,8 +11,6 @@ My experience spans R&D, AI model evaluation, and data optimization:
 
 I also build complex **open-source projects**, including Meridian, a graph-based AI workflow platform built with Python and Nuxt, and Go tools such as Spritely and gouv.viz.
 
-My main technologies are **Python, Go, JavaScript/TypeScript, and SQL**, with **FastAPI, Nuxt/Vue.js, and React**. I also work with **Docker, Kubernetes, PostgreSQL, and Neo4j**.
-
 [![My Skills](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MathisVerstrepen&theme=github_dark)](https://github.com/MathisVerstrepen)
 
 ## Featured projects
