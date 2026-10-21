@@ -1,58 +1,51 @@
 # Mathis Verstrepen
 
-## About me 
+## About me
 
-:mortar_board: Student in computer science and statistics at **Polytech Lille** in France. <br />
-:computer: Learning web development, server and network infrastructure management in my spare time. <br />
-:chart_with_upwards_trend: Creator and manager of **Diikstra**, my development brand. <br />
+I'm a **Software Engineer** and recent graduate with a **dual Master's degree in Computer Science from Polytech Lille and Université Laval**. I enjoy designing robust software architectures and integrating AI into practical applications.
+
+My experience spans R&D, AI model evaluation, and data optimization:
+
+- **Evident Scientific:** developed an AI model evaluation module from end to end for segmentation and anomaly detection, while substantially reducing RAM and VRAM usage.
+- **Acteam-IT, working with Mondial Relay:** designed cost optimization solutions and AI data generation pipelines deployed internationally.
+
+I also build complex **open-source projects**, including Meridian, a graph-based AI workflow platform built with Python and Nuxt, and Go tools such as Spritely and gouv.viz.
+
+My main technologies are **Python, Go, JavaScript/TypeScript, and SQL**, with **FastAPI, Nuxt/Vue.js, and React**. I also work with **Docker, Kubernetes, PostgreSQL, and Neo4j**.
 
 [![My Skills](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MathisVerstrepen&theme=github_dark)](https://github.com/MathisVerstrepen)
 
-## Projects
+## Featured projects
 
-### Meridian
+### [Meridian](https://github.com/MathisVerstrepen/Meridian)
 
-> A graph-powered AI chat application integrating intelligent parallelization for advanced, aggregated conversational experiences. Nuxt3 & Python.
-
-***Status : Ongoing***
+> A graph-based AI workspace for building visual workflows and branching conversations. Connect models, tools, and data sources, with parallel model queries and a chat interface. Built with Nuxt and Python.
 
 [![Meridian](https://github-readme-stats-omega-self-59.vercel.app/api/pin/?username=MathisVerstrepen&repo=Meridian&theme=github_dark&border_color=2c3239)](https://github.com/MathisVerstrepen/Meridian)
 
-### PotBlog
+### [letterboxd-jellyfin](https://github.com/MathisVerstrepen/letterboxd-jellyfin)
 
-> Personnal Blog. Self made markdown to html parser. Made with htmx, go & templ. Cf [repo](https://github.com/MathisVerstrepen/PotBlog).
+> Sync Letterboxd watchlists with Radarr and Jellyfin collections, with optional Sonarr support for series. Automate movie discovery and remove watched films from your Jellyfin watchlist collection. Built with Python and deployable with Docker.
 
-***Status : Ongoing***
+[![letterboxd-jellyfin](https://github-readme-stats-omega-self-59.vercel.app/api/pin/?username=MathisVerstrepen&repo=letterboxd-jellyfin&theme=github_dark&border_color=2c3239)](https://github.com/MathisVerstrepen/letterboxd-jellyfin)
 
-[![PotBlog](https://github-readme-stats-omega-self-59.vercel.app/api/pin/?username=MathisVerstrepen&repo=PotBlog&theme=github_dark&border_color=2c3239)](https://github.com/MathisVerstrepen/PotBlog)
+### [MesSeances](https://github.com/MathisVerstrepen/MesSeances)
 
-### Meledio
+> A French cinema planner with visual showtime timelines, search by available time window, and direct booking links. Compare screenings across cinemas and find a film that fits your schedule. Built with Nuxt, Go, and PostgreSQL.
 
-> World 1st video game music streaming service, development halted due to the complexity of the project. Figma prototype can be accessed [here](https://www.figma.com/design/zn2rncIwm4pCQFl5dzR1Ap/Dune-V2?node-id=0-1&t=2ogDAIdEY6cIzk5c-1).
+[![MesSeances](https://github-readme-stats-omega-self-59.vercel.app/api/pin/?username=MathisVerstrepen&repo=MesSeances&theme=github_dark&border_color=2c3239)](https://github.com/MathisVerstrepen/MesSeances)
 
-***Status : Halted due to complexity***
+### [Yomira](https://github.com/MathisVerstrepen/Yomira)
 
-[![meledio-frontend](https://github-readme-stats-omega-self-59.vercel.app/api/pin/?username=MathisVerstrepen&repo=meledio-frontend&theme=github_dark&border_color=2c3239)](https://github.com/MathisVerstrepen/meledio-frontend)
-[![meledio-backend](https://github-readme-stats-omega-self-59.vercel.app/api/pin/?username=MathisVerstrepen&repo=meledio-backend&theme=github_dark&border_color=2c3239)](https://github.com/MathisVerstrepen/meledio-backend)
+> An open-source Android manga reader connecting Komikku's reading experience to a Suwayomi server. Browse your server library, manage sources, and download chapters to your phone for offline reading, with progress synced when you reconnect. An independent fork of Komikku.
 
-### Gameinbox - In maintenance
-
-> Main site of a minecraft survival server. It contains the personal statistics of all the players and the general statistics of the server (number of players, performance of the server). It also contains the documentation of the server to help the players and a page containing the offers of the shops available on the server.
-
-***Status : Finished***
-
-[![GameInBox-Website](https://github-readme-stats-omega-self-59.vercel.app/api/pin/?username=MathisVerstrepen&repo=GameInBox-Website&theme=github_dark&border_color=2c3239)](https://github.com/MathisVerstrepen/GameInBox-Website)
+[![Yomira](https://github-readme-stats-omega-self-59.vercel.app/api/pin/?username=MathisVerstrepen&repo=Yomira&theme=github_dark&border_color=2c3239)](https://github.com/MathisVerstrepen/Yomira)
 
 ## Technology Stack
 
-![Technology Stack](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nuxtjs,vue,tailwind,nginx,docker,postgres,redis,c,py,r)<br /><br />
+![Technology Stack](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nuxtjs,vue,tailwind,go,docker,postgres,redis,c,py,r)<br /><br />
 
 ## Socials
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@diikstra.fr)
-[![Linkediln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathis-verstrepen-296a01153)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mathis_v1)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Mathis777) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@diikstra.fr) [![Linkediln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathis-verstrepen-296a01153) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mathis_v1) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Mathis777)
 <br />
-
-
